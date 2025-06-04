@@ -8,11 +8,9 @@ Muestra dinamicamente una Imagen del Estatus de un Repositorio para READMEs de u
 ## 📝 Explicación de Tecnología
 Uso [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) como una API para montar una imagen dinámica de un repositorio aleatorio, elegido sin necesidad de servidor en el script de JavScript por [Vercel](https://vercel.com/).
 
-Demostración (Presiona `F5` para recargar el repositorio):
+Demostración (Haz click en la imagen para abrir otra aleatoria, la mostrada en el README está cacheada por Github):
 
-<a align="left" href="https://github.com/LuisMiSanVe" title="Random Repo">
-  <img align="left" height="115" src="https://random-repos-stat.vercel.app/api/random-repo"/>
-</a>
+<a href="https://random-repos-stat.vercel.app/api/random-repo" target="_blank"><img align="left" height="115" src="https://random-repos-stat.vercel.app/api/random-repo"/></a>
 <br><br><br><br><br>
 
 ## 💻 Tecnologías usadas
