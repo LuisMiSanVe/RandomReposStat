@@ -8,11 +8,9 @@ Dynamically display a Github Readme Stats Image of a random Repository using Ver
 ## 📝 Technology Explanation
 I use [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) as an API to build dynamic Images of random Repositories, chosen serverless in the JavaScript script by [Vercel](https://vercel.com/).
 
-Demo (Press `F5` to reload the repository):
+Demo (Click on the image to open a random one, the displayed in the README is cached by Github):
 
-<a align="left" href="https://github.com/LuisMiSanVe" title="Random Repo">
-  <img align="left" height="115" src="https://random-repos-stat.vercel.app/api/random-repo"/>
-</a>
+<a href="https://random-repos-stat.vercel.app/api/random-repo" target="_blank"><img align="left" height="115" src="https://random-repos-stat.vercel.app/api/random-repo"/></a>
 <br><br><br><br><br>
 
 ## 💻 Technologies Used
